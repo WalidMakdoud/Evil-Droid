@@ -3,9 +3,8 @@
 # Evil-Droid Framework . version 0.3
 # Evil-Droid is a framework that create & generate & embed apk payload to penetrate android platform
 #
-#                  Created By Black Hat RGB . 
-#        INSTA : https://instagram.com/h04x_h04x
-#Speciak thanks to : MrPedroubuntu , Kader Achraf , youcef yahia and Mohammed Yacine and Mascerano Bachir
+#                  Created By WALID MAKDOUD . 
+#        INSTA : https://instagram.com/xx_xwalidxx
 #
 # this is an open source tool if you want to modify or add something . Please give me a copy.
 
@@ -242,7 +241,7 @@ echo -e $lightgreen "             MMMMM   MMMMM           "
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             MMMMM   MMMMM           "   
 echo -e $lightgreen "             .MMM.   .MMM.           " 
-echo -e $lightgreen "     Black Hat RGB    - Dev-labs     "                                 
+echo -e $lightgreen "     Walid Makdoud    -              "                                 
 }
 #function lhost
 function get_lhost() 
@@ -714,11 +713,11 @@ start=$(zenity --question --title="☢ Evil-Droid Framework ☢" --text "Execute
     clear
     echo ""
     echo -e $lightgreen "╔──────────────────────────────────────────────╗"
-    echo -e $lightgreen "|           Author: Black Hat RGB              |"
-    echo -e $lightgreen "|    Evil-Droid Framework $ver - Dev-labs.co   |"
-    echo -e $lightgreen "|   Credits to : MrPedroubuntu , Kader Achraf  |"
-    echo -e $lightgreen "|              , youcef yahia,                 |"
-    echo -e $lightgreen "| ascerano Bachir  and Mohammed Yacine         |"
+    echo -e $lightgreen "|           Author: Walid Makdoud              |"
+    echo -e $lightgreen "|    Evil-Droid Framework $ver - ME            |"
+    echo -e $lightgreen "|   Credits to : ME and ME and ME              |"
+    echo -e $lightgreen "|                                              |"
+    echo -e $lightgreen "| Instagram : xx_xwalidxx                      |"
     echo -e $lightgreen "┖──────────────────────────────────────────────┙"
     echo ""
     apache_svc_stop
